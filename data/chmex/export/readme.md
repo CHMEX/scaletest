@@ -1,6 +1,8 @@
 Export of all blocks up to
 <br><br>
 
+<a href="https://dexstats.info/upload/exportscalingassets.zip"> File with 100k Blocks exported. (450MB)</a> https://dexstats.info/upload/exportscalingassets.zip
+
 TXSCL 	982<br>
 TXSCL000 	919<br>
 TXSCL001 	910<br>
