@@ -1,3 +1,23 @@
+/*
+
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[_Chain](
+	[Chain] [varchar](50) NULL,
+	[Height] [int] NULL
+) ON [PRIMARY]
+
+GO
+
+
+
+*/
+
+
 DECLARE @chain VARCHAR(500)
 DECLARE @height INT
 
